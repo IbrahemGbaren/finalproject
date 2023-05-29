@@ -1,0 +1,68 @@
+cpu
+
+ Intel® Core™ i9-10900K processor is specifically designed to be compatible with the LGA 1200 socket.
+
+Brand: Intel
+Model: Core i9-10900K
+Socket: LGA 1200
+Cores: 10
+Threads: 20
+Base Frequency: 3.7 GHz
+Max Frequency: 5.3 GHz
+Cache: 20 MB Intel Smart Cache
+Power Consumption: 125 Watts
+
+pc build for Intel® Core™ i9-10900K processor :
+
+  //   CPU Cooler: Corsair iCUE H150i RGB PRO XT
+1  Motherboard: ASUS ROG Maximus XII Hero (Wi-Fi)
+
+Brand: ASUS
+Model: ROG Maximus XII Hero (Wi-Fi)
+Chipset: Intel Z490
+Socket: LGA 1200
+Form Factor: ATX
+Supported Memory: DDR4
+Max Memory: Up to 128GB (4 x DIMM slots)
+PCI Slots: 3 x PCIe 3.0 x16 slots, 3 x PCIe 3.0 x1 slots
+SATA Ports: 6 x SATA 6Gb/s ports
+USB Ports:
+    //Rear USB Ports: 8 x USB 3.2 Gen 2 (7 x Type-A, 1 x Type-C), 4 x USB 3.2 Gen 1 (Type-A)
+     //Internal USB Ports: 6 x USB 3.2 Gen 2 (Type-A), 4 x USB 2.0
+
+
+
+
+
+
+
+
+
+2 ram Memory: Corsair Vengeance RGB Pro 32GB (4 x 8GB) DDR4-3200MHz
+3 gpu  Graphics Card: NVIDIA GeForce RTX 3080
+4 hard drive  Storage: Samsung 970 EVO Plus 1TB NVMe SSD
+5 Power Supply: Corsair RM850x 850W 80+ Gold
+6 Case: NZXT H710i
+
+
+
+
+
+
+
+
+
+
+
+
+
+AMD Ryzen 7 5800X Processor    socket AM4
+Brand: AMD
+Model: Ryzen 7 5800X
+Socket: AM4
+Cores: 8
+Threads: 16
+Base Frequency: 3.8 GHz
+Max Frequency: 4.7 GHz
+Cache: 36 MB (Total L2+L3)
+Power Consumption: 105 Watts
