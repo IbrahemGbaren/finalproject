@@ -95,5 +95,6 @@ if(isset($_POST["def"])){
     mysqli_query($con,"UPDATE `user_cards` SET `Default`=1 WHERE `user_cards`.`user-ID`='$user' AND `user_cards`.`C-Number`='$number'");
     header("location:Cards.php");
 }
+// add to cart user , but if the quantity is less the quantity in the stuck then the cart of the user is updated with no item from the one who is less than the one in the quantity of the database 
 
 ?>
