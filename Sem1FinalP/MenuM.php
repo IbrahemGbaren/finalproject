@@ -50,6 +50,7 @@ echo '<img src="Pictures/adminF.png" class="logo" />';
 ?> - <?=$_COOKIE["uname"]?></a>
   <a id="users" href="/labs/Sem1FinalP/logout.php" style="color: red;" >LOG OUT</a>
     
+// this is the menu of the 
 
 </div>
   </html>
